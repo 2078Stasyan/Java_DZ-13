@@ -12,7 +12,6 @@ public class ProductManagerTest {
     Product smartphone = new Smartphone(3, "Samsung", 25000, "Galaxy S22");
     Product smartphone2 = new Smartphone(4, "Apple", 45000, "Iphon 12");
 
-
     @Test
     public void FindingElementsByName() {
 
